@@ -3,7 +3,7 @@ import config
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-ADMIN_ID = 1109352172  # mee Telegram ID
+ADMIN_ID = 5097016925  # mee Telegram ID
 
 # Load & Save
 def load_movies():
